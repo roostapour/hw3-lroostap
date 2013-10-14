@@ -92,6 +92,6 @@
 	</dependencies>
 	<scm>
 		<connection>scm:git:git@github.com:roostapour/hw3-lroostap.git</connection>
-		<developerConnection>scm:git:git@github.com:roostapour/hw2-lroostap.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:roostapour/hw3-lroostap.git</developerConnection>
 	</scm>
 </project>
