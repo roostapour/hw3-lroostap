@@ -90,4 +90,8 @@
 			<version>2.4.0</version>
 		</dependency>			
 	</dependencies>
+	<scm>
+		<connection>scm:git:git@github.com:roostapour/hw3-lroostap.git</connection>
+		<developerConnection>scm:git:git@github.com:roostapour/hw2-lroostap.git</developerConnection>
+	</scm>
 </project>
