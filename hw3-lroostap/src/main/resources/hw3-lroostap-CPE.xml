@@ -16,7 +16,7 @@
         </collectionIterator>
     </collectionReader>
     <casProcessors casPoolSize="3" processingUnitThreadCount="1">
-    	<casProcessor deployment="integrated" name="scnlp-lroostap-client.xml">
+        <casProcessor deployment="integrated" name="scnlp-lroostap-client.xml">
             <descriptor>
                 <import location="scnlp-lroostap-client.xml"/>
             </descriptor>

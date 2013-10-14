@@ -23,6 +23,7 @@
           <type allAnnotatorFeatures="true">edu.cmu.deiis.types.Question</type>
           <type allAnnotatorFeatures="true">edu.cmu.deiis.types.NGram</type>
           <type allAnnotatorFeatures="true">edu.cmu.deiis.types.Answer</type>
+          <type allAnnotatorFeatures="true">org.cleartk.ne.type.NamedEntityMention</type>
         </inputs>
         <outputs>
           <type allAnnotatorFeatures="true">edu.cmu.deiis.types.Token</type>

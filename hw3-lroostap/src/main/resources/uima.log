@@ -1,11 +1,11 @@
-10/14/13 2:09:12 AM - 10: org.apache.uima.adapter.jms.service.UIMA_Service.initialize(68): INFO: UIMA-AS version 2.4.0
-10/14/13 2:09:13 AM - 10: org.apache.uima.aae.controller.BaseAnalysisEngineController.logPlatformInfo: INFO: 
+10/14/13 4:37:27 PM - 10: org.apache.uima.adapter.jms.service.UIMA_Service.initialize(68): INFO: UIMA-AS version 2.4.0
+10/14/13 4:37:28 PM - 10: org.apache.uima.aae.controller.BaseAnalysisEngineController.logPlatformInfo: INFO: 
 +------------------------------------------------------------------
-                   Starting UIMA AS Service - PID: 16241
+                   Starting UIMA AS Service - PID: 24102
 +------------------------------------------------------------------
 + Service Name:hw2-lroostap-aae
 + Service Queue Name:lroostapQueue
-+ Service Start Time:14 Oct 2013 02:09:12 
++ Service Start Time:14 Oct 2013 16:37:27 
 + UIMA AS Version:2.4.0
 + UIMA Core Version:2.4.0
 + OS Name:Linux
@@ -20,11 +20,11 @@
 + JVM Loaded Jars:/home/hannah/apache-uima-as-2.4.0/lib/uimaj-bootstrap.jar:/home/hannah/git/hw3-lroostap/hw3-lroostap/target/:/home/hannah/apache-uima-as-2.4.0/examples/resources/:/home/hannah/apache-uima-as-2.4.0/lib/uima-adapter-soap.jar:/home/hannah/apache-uima-as-2.4.0/lib/jVinci.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-adapter-vinci.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-tools.jar:/home/hannah/apache-uima-as-2.4.0/lib/uimaj-as-activemq.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-examples.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-core.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-document-annotation.jar:/home/hannah/apache-uima-as-2.4.0/lib/uima-cpe.jar:/home/hannah/apache-uima-as-2.4.0/lib/uimaj-as-camel.jar:/home/hannah/apache-uima-as-2.4.0/lib/uimaj-as-jms.jar:/home/hannah/apache-uima-as-2.4.0/lib/xmlbeans.jar:/home/hannah/apache-uima-as-2.4.0/lib/uimaj-as-core.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/activemq-all-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-jms-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-context-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-tx-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/commons-logging-1.1.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/geronimo-jms_1.1_spec-1.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/xbean-spring-3.7.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/activemq-optional-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/kahadb-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/activemq-camel-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/activemq-spring-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-expression-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/activemq-core-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-asm-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/activemq-console-5.4.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-core-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-aop-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/spring-beans-3.0.3.RELEASE.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/log4j-1.2.14.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/commons-codec-1.2.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/xstream-1.3.1.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/xmlpull-1.1.3.4d_b4_min.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/geronimo-servlet_2.5_spec-1.2.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/jetty-all-server-7.0.1.v20091125.jar:/home/hannah/apache-uima-as-2.4.0/apache-activemq-5.4.1/lib/optional/commons-httpclient-3.1.jar:
 + JVM LIB_PATH:/usr/java/jdk1.6.0_45/jre/lib/amd64/server:/usr/java/jdk1.6.0_45/jre/lib/amd64:/usr/java/jdk1.6.0_45/jre/../lib/amd64:/home/hannah/apache-uima-as-2.4.0/uimacpp/lib:/home/hannah/apache-uima-as-2.4.0/uimacpp/examples/tutorial/src::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
 +------------------------------------------------------------------ 
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.setEndpointName: INFO: top_level_input_queue_service_1 Service Starting - Listening for Messages 
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification: INFO: Uima EE Client Blocking - Awaiting Top Level Controller Initialization Notification
-10/14/13 2:09:14 AM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae Initializing AE instance on Thread Id: 11
-10/14/13 2:09:14 AM - 11: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine: WARNING: Service: hw2-lroostap-aae Runtime Exception  
-10/14/13 2:09:14 AM - 11: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine: WARNING: 
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.setEndpointName: INFO: top_level_input_queue_service_1 Service Starting - Listening for Messages 
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification: INFO: Uima EE Client Blocking - Awaiting Top Level Controller Initialization Notification
+10/14/13 4:37:29 PM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae Initializing AE instance on Thread Id: 11
+10/14/13 4:37:29 PM - 11: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine: WARNING: Service: hw2-lroostap-aae Runtime Exception  
+10/14/13 4:37:29 PM - 11: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine: WARNING: 
 org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:159)
 	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
@@ -42,7 +42,7 @@ Caused by: org.apache.uima.util.InvalidXMLException: An import could not be reso
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
 	... 7 more
 
-10/14/13 2:09:14 AM - 11: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.notifyOnInitializationFailure: WARNING: Top Level Controller Initialization Exception.
+10/14/13 4:37:29 PM - 11: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.notifyOnInitializationFailure: WARNING: Top Level Controller Initialization Exception.
 org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:159)
 	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
@@ -60,7 +60,7 @@ Caused by: org.apache.uima.util.InvalidXMLException: An import could not be reso
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
 	... 7 more
 
-10/14/13 2:09:14 AM - 11: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.notifyOnInitializationFailure: WARNING: Top Level Controller Initialization Exception.
+10/14/13 4:37:29 PM - 11: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.notifyOnInitializationFailure: WARNING: Top Level Controller Initialization Exception.
 org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:159)
 	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
@@ -78,58 +78,7 @@ Caused by: org.apache.uima.util.InvalidXMLException: An import could not be reso
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
 	... 7 more
 
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer: WARNING: 
-org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
-	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification(SpringContainerDeployer.java:516)
-	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer(SpringContainerDeployer.java:301)
-	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.deploy(SpringContainerDeployer.java:461)
-	at org.apache.uima.adapter.jms.service.UIMA_Service.deploy(UIMA_Service.java:168)
-	at org.apache.uima.adapter.jms.service.UIMA_Service.main(UIMA_Service.java:414)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.apache.uima.bootstrap.UimaBootstrap.main(UimaBootstrap.java:98)
-Caused by: org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
-	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:159)
-	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
-	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
-	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:269)
-	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:387)
-	at org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine(PrimitiveAnalysisEngineController_impl.java:186)
-	at org.apache.uima.aae.UimaAsThreadFactory$1.run(UimaAsThreadFactory.java:114)
-	at java.lang.Thread.run(Thread.java:662)
-Caused by: org.apache.uima.util.InvalidXMLException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
-	at org.apache.uima.resource.metadata.impl.Import_impl.findAbsoluteUrl(Import_impl.java:107)
-	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.resolveDelegateAnalysisEngineImports(AnalysisEngineDescription_impl.java:798)
-	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.resolveDelegateAnalysisEngineImports(AnalysisEngineDescription_impl.java:765)
-	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.getDelegateAnalysisEngineSpecifiers(AnalysisEngineDescription_impl.java:193)
-	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
-	... 7 more
-
-10/14/13 2:09:14 AM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae --------------- Process Thread ID:11 EXITING
-10/14/13 2:09:14 AM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae --------------- AE destroy() Method Call Returned ID:11
-10/14/13 2:09:14 AM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.terminate: INFO: Controller: hw2-lroostap-aae Received Terminate Event
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Stopping Service JMS Transport. Service: lroostapQueue ShutdownNow true
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Controller: hw2-lroostap-aae Stopped Listener on Endpoint: queue://lroostapQueue Selector:  Selector:Command=2000 OR Command=2002. 
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Stopping Service JMS Transport. Service: lroostapQueue ShutdownNow true
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Controller: hw2-lroostap-aae Stopped Listener on Endpoint: queue://lroostapQueue Selector:  Selector:Command=2001. 
-10/14/13 2:09:14 AM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.stop: INFO: Stopping Controller: hw2-lroostap-aae
-10/14/13 2:09:14 AM - 13: org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.destroy: WARNING: 
-org.springframework.jms.listener.AbstractJmsListeningContainer$SharedConnectionNotInitializedException: This listener container's shared Connection has not been initialized yet
-	at org.springframework.jms.listener.AbstractJmsListeningContainer.getSharedConnection(AbstractJmsListeningContainer.java:483)
-	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer.access$2000(UimaDefaultMessageListenerContainer.java:69)
-	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.run(UimaDefaultMessageListenerContainer.java:1010)
-
-10/14/13 2:09:14 AM - 12: org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.destroy: WARNING: 
-org.springframework.jms.listener.AbstractJmsListeningContainer$SharedConnectionNotInitializedException: This listener container's shared Connection has not been initialized yet
-	at org.springframework.jms.listener.AbstractJmsListeningContainer.getSharedConnection(AbstractJmsListeningContainer.java:483)
-	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer.access$2000(UimaDefaultMessageListenerContainer.java:69)
-	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.run(UimaDefaultMessageListenerContainer.java:1010)
-
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.JmsOutputChannel.stop: INFO: Controller: lroostapQueue Output Channel Shutdown Completed
-10/14/13 2:09:14 AM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.stop: INFO: Controller: hw2-lroostap-aae has stopped
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.deploy: WARNING: 
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer: WARNING: 
 org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
 	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification(SpringContainerDeployer.java:516)
 	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer(SpringContainerDeployer.java:301)
@@ -158,7 +107,58 @@ Caused by: org.apache.uima.util.InvalidXMLException: An import could not be reso
 	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
 	... 7 more
 
-10/14/13 2:09:14 AM - 10: org.apache.uima.adapter.jms.service.UIMA_Service.main: WARNING: 
+10/14/13 4:37:29 PM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae --------------- Process Thread ID:11 EXITING
+10/14/13 4:37:29 PM - 11: org.apache.uima.aae.UimaAsThreadFactory$1.UimaAsThreadFactory.run(): INFO: Controller: hw2-lroostap-aae --------------- AE destroy() Method Call Returned ID:11
+10/14/13 4:37:29 PM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.terminate: INFO: Controller: hw2-lroostap-aae Received Terminate Event
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Stopping Service JMS Transport. Service: lroostapQueue ShutdownNow true
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Controller: hw2-lroostap-aae Stopped Listener on Endpoint: queue://lroostapQueue Selector:  Selector:Command=2000 OR Command=2002. 
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Stopping Service JMS Transport. Service: lroostapQueue ShutdownNow true
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsInputChannel.stopChannel: INFO: Controller: hw2-lroostap-aae Stopped Listener on Endpoint: queue://lroostapQueue Selector:  Selector:Command=2001. 
+10/14/13 4:37:29 PM - 12: org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.destroy: WARNING: 
+org.springframework.jms.listener.AbstractJmsListeningContainer$SharedConnectionNotInitializedException: This listener container's shared Connection has not been initialized yet
+	at org.springframework.jms.listener.AbstractJmsListeningContainer.getSharedConnection(AbstractJmsListeningContainer.java:483)
+	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer.access$2000(UimaDefaultMessageListenerContainer.java:69)
+	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.run(UimaDefaultMessageListenerContainer.java:1010)
+
+10/14/13 4:37:29 PM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.stop: INFO: Stopping Controller: hw2-lroostap-aae
+10/14/13 4:37:29 PM - 13: org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.destroy: WARNING: 
+org.springframework.jms.listener.AbstractJmsListeningContainer$SharedConnectionNotInitializedException: This listener container's shared Connection has not been initialized yet
+	at org.springframework.jms.listener.AbstractJmsListeningContainer.getSharedConnection(AbstractJmsListeningContainer.java:483)
+	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer.access$2000(UimaDefaultMessageListenerContainer.java:69)
+	at org.apache.uima.adapter.jms.activemq.UimaDefaultMessageListenerContainer$3.run(UimaDefaultMessageListenerContainer.java:1010)
+
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.JmsOutputChannel.stop: INFO: Controller: lroostapQueue Output Channel Shutdown Completed
+10/14/13 4:37:29 PM - 10: org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.stop: INFO: Controller: hw2-lroostap-aae has stopped
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.deploy: WARNING: 
+org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
+	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification(SpringContainerDeployer.java:516)
+	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer(SpringContainerDeployer.java:301)
+	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.deploy(SpringContainerDeployer.java:461)
+	at org.apache.uima.adapter.jms.service.UIMA_Service.deploy(UIMA_Service.java:168)
+	at org.apache.uima.adapter.jms.service.UIMA_Service.main(UIMA_Service.java:414)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.uima.bootstrap.UimaBootstrap.main(UimaBootstrap.java:98)
+Caused by: org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:159)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:269)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:387)
+	at org.apache.uima.aae.controller.PrimitiveAnalysisEngineController_impl.initializeAnalysisEngine(PrimitiveAnalysisEngineController_impl.java:186)
+	at org.apache.uima.aae.UimaAsThreadFactory$1.run(UimaAsThreadFactory.java:114)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.uima.util.InvalidXMLException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
+	at org.apache.uima.resource.metadata.impl.Import_impl.findAbsoluteUrl(Import_impl.java:107)
+	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.resolveDelegateAnalysisEngineImports(AnalysisEngineDescription_impl.java:798)
+	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.resolveDelegateAnalysisEngineImports(AnalysisEngineDescription_impl.java:765)
+	at org.apache.uima.analysis_engine.impl.AnalysisEngineDescription_impl.getDelegateAnalysisEngineSpecifiers(AnalysisEngineDescription_impl.java:193)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:147)
+	... 7 more
+
+10/14/13 4:37:29 PM - 10: org.apache.uima.adapter.jms.service.UIMA_Service.main: WARNING: 
 org.apache.uima.resource.ResourceInitializationException: An import could not be resolved.  No .xml file with name "descriptors.AnswerScoringAnnotator" was found in the class path or data path. (Descriptor: file:/home/hannah/git/hw3-lroostap/hw3-lroostap/src/main/resources/hw2-lroostap-aae.xml)
 	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.waitForServiceNotification(SpringContainerDeployer.java:516)
 	at org.apache.uima.adapter.jms.activemq.SpringContainerDeployer.initializeContainer(SpringContainerDeployer.java:301)
