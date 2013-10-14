@@ -16,6 +16,9 @@
   <delegateAnalysisEngine key="AnswerScoringAnnotator">
       <import name="descriptors.AnswerScoringAnnotator"/>
     </delegateAnalysisEngine>
+  <delegateAnalysisEngine key="scnlp-lroostap-client">
+      <import name="scnlp-lroostap-client"/>
+    </delegateAnalysisEngine>
   </delegateAnalysisEngineSpecifiers>
   <analysisEngineMetaData>
     <name>hw2-lroostap-aae</name>
