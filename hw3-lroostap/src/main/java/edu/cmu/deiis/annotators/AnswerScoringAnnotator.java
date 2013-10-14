@@ -19,6 +19,8 @@ import edu.cmu.deiis.types.*;
 /**
  * 
  * Calculates score for each answer based on the Ngram matching algorithm and prints the results.
+ * I added another part to this descriptor which considers NamedEntityMention option and applies 
+ * this option in calculating the score for the answers.
  * @author Laleh
  *
  */
@@ -160,7 +162,7 @@ public class AnswerScoringAnnotator extends JCasAnnotator_ImplBase {
       neScore = (double)answerNE.get(answer)/answerMaxNE;
       //System.out.println(answerNE.get(answer));
       combinedScore = (ngramScore + neScore)/2;
-      ansSc.setScore(ngramScore);
+      ansSc.setScore(combinedScore);
       ansSc.addToIndexes();
     }
      
